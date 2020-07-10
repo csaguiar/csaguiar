@@ -9,3 +9,7 @@ Have experience in:
 - Deep Learning (TensorFlow/Keras)
 
 As a Graduate Researcher I was able to take part and manage several projects that involved numerical simulations of structures, statistical analysis of time series, scientific software development as well as algorithms for optimizing mooring systems of offshore marine structures. 
+
+[Linkedin](https://www.linkedin.com/in/cristiano-aguiar/)
+[Blog](https://cristiano.io)
+[Medium](https://medium.com/@CrAguiar)
